@@ -1,0 +1,14 @@
+checar se a aplicação nvm está instalada
+sudo install nvm
+
+instalar versão de suporte longo do node
+nvm install lts/hydrogen
+
+Definir a versão padrão do node a ser utilizada
+nvm alias default lts/hydrogen
+
+
+
+criar um arquivo .nvmrc com uma linha contendo a versão utilizada no repositório lts/hydrogen
+echo "lts/hydrogen/n" > filename.txt
+
