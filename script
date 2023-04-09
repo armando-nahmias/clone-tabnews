@@ -1,3 +1,4 @@
+
 checar se a aplicação nvm está instalada
 sudo install nvm
 
@@ -10,5 +11,20 @@ nvm alias default lts/hydrogen
 
 
 criar um arquivo .nvmrc com uma linha contendo a versão utilizada no repositório lts/hydrogen
-echo "lts/hydrogen/n" > filename.txt
+echo "lts/hydrogen" > .nvmrc
 
+Para criar o manifesto, basta inicializar o npm
+npm init
+ (Colocar licença MIT)
+
+Será criado o arquivo ‘package.json’
+
+Instalar o next
+npm install next@13.1.6  
+
+Instalar o react
+npm install react@18.2.0  
+
+
+Instalar o react-dom
+npm install react-dom@18.2.0  
