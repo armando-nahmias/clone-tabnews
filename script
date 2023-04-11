@@ -33,7 +33,10 @@ aula 4.1
 no scripts declarar o comando next dev
 "dev": "next dev"
 
-rodar
+rodar no terminal
 npm run dev
 
+
+Aula 4.2
+criar a pagina index.js na pasta pages
 
