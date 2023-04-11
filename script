@@ -28,3 +28,12 @@ npm install react@18.2.0
 
 Instalar o react-dom
 npm install react-dom@18.2.0  
+
+aula 4.1
+no scripts declarar o comando next dev
+"dev": "next dev"
+
+rodar
+npm run dev
+
+
